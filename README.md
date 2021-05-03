@@ -38,7 +38,7 @@ Model: "sequential_1"
 |conv2d_2 (Conv2D)                              |    (None, 64, 64, 128)                 |         73856|
 |batch_normalization_2 (BatchNormalization)     |   (None, 64, 64, 128)             |             512|
 |conv2d_3 (Conv2D)                              |     (None, 64, 64, 128)             |             147584| 
-|batch_normalization_3 (BatchNormalization)     |     (None, 64, 64, 128)                          512               |
+|batch_normalization_3 (BatchNormalization)     |     (None, 64, 64, 128)             |             512     |
 |max_pooling2d_1 (MaxPooling2D)                 |      (None, 32, 32, 128)              |            0|
 |dropout_1 (Dropout)                            |    (None, 32, 32, 128)             |             0|
 |conv2d_4 (Conv2D)                              |    (None, 32, 32, 256)                |         295168|
